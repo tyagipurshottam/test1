@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tyagi JI
-=======
 helloo
->>>>>>> c145ce304f289ef4a46efdddc70d531d07a32cf6
